@@ -1,4 +1,295 @@
 {
-    "version": "1.0.0",
-    "mensajes": []
+  "version": "1.0.0",
+  "mensajes": [
+    {
+      "id": 1,
+      "fecha": "2024-01-25",
+      "orden": 1,
+      "vidente": "Marija Pavlovic",
+      "tipo": 1,
+      "idioma": "es",
+      "contenido": "“¡Queridos hijos! Que este tiempo sea un tiempo de oración. ”",
+      "reflexion": null
+    },
+    {
+      "id": 2,
+      "fecha": "2024-02-25",
+      "orden": 1,
+      "vidente": "Marija Pavlovic",
+      "tipo": 1,
+      "idioma": "es",
+      "contenido": "“¡Queridos hijos! Oren y renueven su corazón para que el bien que han sembrado dé frutos de alegría y de unión con Dios. La cizaña se ha apoderado de muchos corazones y se han vuelto estériles. Por eso ustedes, hijitos, sean luz, amor y mis manos extendidas en este mundo que anhela a Dios que es amor. Gracias por haber respondido a mi llamado. ”",
+      "reflexion": null
+    },
+    {
+      "id": 3,
+      "fecha": "2024-03-18",
+      "orden": 1,
+      "vidente": "Mirjana Dragicevic",
+      "tipo": 2,
+      "idioma": "es",
+      "contenido": "“Queridos hijos, yo estoy con ustedes gracias al amor misericordioso de Dios. Y por eso, como Madre, los invito a creer en el amor, amor que es unión con mi Hijo. Con el amor ayudan a los demás a abrir sus corazones para que conozcan a mi Hijo y lo amen. Hijos míos, el amor hace que mi Hijo ilumine sus corazones con Su gracia, crezca en ustedes y les dé la paz. Hijos míos, si viven el amor, si viven a mi Hijo, tendrán paz y serán felices. En el amor está la victoria. ¡Les doy las gracias! ”",
+      "reflexion": null
+    },
+    {
+      "id": 4,
+      "fecha": "2024-03-25",
+      "orden": 1,
+      "vidente": "Marija Pavlovic",
+      "tipo": 1,
+      "idioma": "es",
+      "contenido": "“¡Queridos hijos! En este tiempo de gracia, oren conmigo para que el bien venza en ustedes y a su alrededor. De manera especial, hijitos, oren unidos a Jesús en Su viacrucis. Pongan en sus oraciones a esta humanidad que vaga sin Dios y sin Su amor. Sean oración, sean luz y testigos para todos los que encuentran, hijitos, a fin de que Dios misericordioso tenga misericordia de ustedes. Gracias por haber respondido a mi llamado. ”",
+      "reflexion": null
+    },
+    {
+      "id": 5,
+      "fecha": "2024-04-25",
+      "orden": 1,
+      "vidente": "Marija Pavlovic",
+      "tipo": 1,
+      "idioma": "es",
+      "contenido": "“¡Queridos hijos! Estoy con ustedes para decirles que los amo, y los animo a orar porque Satanás es fuerte y cada día su fuerza es mayor a través de aquellos que eligieron la muerte y el odio. Ustedes, hijitos, sean oración y mis manos extendidas de amor para todos aquellos que están en tinieblas y buscan la luz de nuestro Dios. Gracias por haber respondido a mi llamado. ”",
+      "reflexion": null
+    },
+    {
+      "id": 6,
+      "fecha": "2024-05-25",
+      "orden": 1,
+      "vidente": "Marija Pavlovic",
+      "tipo": 1,
+      "idioma": "es",
+      "contenido": "“¡Queridos hijos! En este tiempo de gracia, los invito a la oración con el corazón. Hijitos, formen grupos de oración en los que se exhortarán unos a otros al bien y crecerán en la alegría. Hijitos, aún están lejos. Por eso, continúen convirtiéndose y elijan el camino de la santidad y de la esperanza, para que Dios les dé paz en abundancia. Gracias por haber respondido a mi llamado. ”",
+      "reflexion": null
+    },
+    {
+      "id": 7,
+      "fecha": "2024-06-25",
+      "orden": 1,
+      "vidente": "Marija Pavlovic",
+      "tipo": 1,
+      "idioma": "es",
+      "contenido": "“¡Queridos hijos! Me regocijo con ustedes y doy gracias a Dios por permitirme estar con ustedes, para guiarlos y amarlos. Hijitos, la paz está en peligro y la familia bajo ataque. Los invito, hijitos: regresen a la oración en familia. Pongan la Sagrada Escritura en un lugar visible y léanla cada día. Amen a Dios sobre todas las cosas para que vivan bien en la tierra. Gracias por haber respondido a mi llamado. ”",
+      "reflexion": null
+    },
+    {
+      "id": 8,
+      "fecha": "2024-07-25",
+      "orden": 1,
+      "vidente": "Marija Pavlovic",
+      "tipo": 1,
+      "idioma": "es",
+      "contenido": "“¡Queridos hijos míos! Con alegría los he elegido y los guío porque en ustedes, hijitos, veo personas de fe, esperanza y oración. Hijitos, que los guíe la dignidad de ser míos; y yo los guío a Aquel que es el Camino, la Verdad y la Vida. Estoy con ustedes para que la paz triunfe en ustedes y a su alrededor, porque con esa intención Dios me ha enviado a ustedes. Gracias por haber respondido a mi llamado. ”",
+      "reflexion": null
+    },
+    {
+      "id": 9,
+      "fecha": "2024-08-25",
+      "orden": 1,
+      "vidente": "Marija Pavlovic",
+      "tipo": 1,
+      "idioma": "es",
+      "contenido": "“¡Queridos hijos! Hoy mi oración con ustedes es por la paz. El bien y el mal luchan y desean predominar en el mundo y en los corazones de la gente. Sean ustedes personas de esperanza, de oración y de gran confianza en Dios Creador para quien todo es posible. Hijitos, que la paz prevalezca en ustedes y alrededor de ustedes. Los bendigo con mi bendición maternal para que, hijitos, sean alegría para todos con quienes se encuentren. Gracias por haber respondido a mi llamado. ”",
+      "reflexion": null
+    },
+    {
+      "id": 10,
+      "fecha": "2024-09-25",
+      "orden": 1,
+      "vidente": "Marija Pavlovic",
+      "tipo": 1,
+      "idioma": "es",
+      "contenido": "“¡Queridos hijos! Por amor hacia ustedes, Dios me ha enviado en medio de ustedes para amarlos y animarlos a la oración y a la conversión, por la paz en ustedes, en sus familias y en el mundo. Hijitos, no olviden que la verdadera paz sólo viene a través de la oración, de Dios que es su paz. Gracias por haber respondido a mi llamado.\" (Con aprobación eclesiástica) ”",
+      "reflexion": null
+    },
+    {
+      "id": 11,
+      "fecha": "2024-10-25",
+      "orden": 1,
+      "vidente": "Marija Pavlovic",
+      "tipo": 1,
+      "idioma": "es",
+      "contenido": "“¡Queridos hijos! En este tiempo, cuando celebran el Día de Todos los Santos, pidan su intercesión y sus oraciones para que en comunión con ellos encuentren la paz. Que los santos sean para ustedes intercesores y ejemplos a imitar, a fin de que vivan santamente. Estoy con ustedes e intercedo ante Dios por cada uno de ustedes. Gracias por haber respondido a mi llamado. ”",
+      "reflexion": null
+    },
+    {
+      "id": 12,
+      "fecha": "2024-11-25",
+      "orden": 1,
+      "vidente": "Marija Pavlovic",
+      "tipo": 1,
+      "idioma": "es",
+      "contenido": "“¡Queridos hijos! En este tiempo de gracia de la espera, deseo invitarlos a la oración para que el Adviento sea la oración de la familia. De manera especial, hijitos, a quienes abrazo con ternura, los animo a la oración por la paz en el mundo, para que la paz prevalezca sobre la inquietud y el odio. Gracias por haber respondido a mi llamado. ”",
+      "reflexion": null
+    },
+    {
+      "id": 13,
+      "fecha": "2024-12-25",
+      "orden": 1,
+      "vidente": "Jakov Colo",
+      "tipo": 2,
+      "idioma": "es",
+      "contenido": "“Queridos hijos, hoy, en este día de gracia, de manera especial los invito a que no vivan la vida aspirando a metas terrenales, ni buscando paz y alegría en las cosas terrenales, porque así la oscuridad envuelve su vida y ustedes no ven el sentido de ella. Hijitos, abran las puertas de su corazón a Jesús, permítanle que se apodere de todo su ser para que puedan comenzar a vivir en el amor y en la misericordia de Dios. Hijos míos, sólo con Jesús en sus corazones conocerán el verdadero propósito de su vida y aspirarán a la salvación eterna. Los bendigo con mi bendición maternal. ”",
+      "reflexion": null
+    },
+    {
+      "id": 14,
+      "fecha": "2024-12-25",
+      "orden": 1,
+      "vidente": "Marija Pavlovic",
+      "tipo": 1,
+      "idioma": "es",
+      "contenido": "“¡Queridos hijos! Oren, oren, oren para que la paz reine en cada corazón y prevalezca sobre todo mal e inquietud. Gracias por haber respondido a mi llamado. ”",
+      "reflexion": null
+    },
+    {
+      "id": 15,
+      "fecha": "2025-01-25",
+      "orden": 1,
+      "vidente": "Marija Pavlovic",
+      "tipo": 1,
+      "idioma": "es",
+      "contenido": "“¡Queridos hijos! En este año de gracia los invito a la conversión. Pongan a Dios, queridos hijos, en el centro de su vivir y los frutos serán el amor hacia el prójimo y la alegría de testimoniar; y la santidad de su vida llegará a ser el testimonio verdadero de la fe. Gracias por haber respondido a mi llamado. ”",
+      "reflexion": null
+    },
+    {
+      "id": 16,
+      "fecha": "2025-02-25",
+      "orden": 1,
+      "vidente": "Marija Pavlovic",
+      "tipo": 1,
+      "idioma": "es",
+      "contenido": "“¡Queridos hijos! Que este tiempo primaveral sea un estímulo para la conversión personal, a fin de que con sus vidas puedan orar y amar a Dios por encima de todo, y por todos los que están en necesidad. Hijitos, sean mis manos de paz y de oración, sean amor para todos los que no aman, no oran y no desean la paz. Gracias por haber respondido a mi llamado. ”",
+      "reflexion": null
+    },
+    {
+      "id": 17,
+      "fecha": "2025-03-18",
+      "orden": 1,
+      "vidente": "Mirjana Dragicevic",
+      "tipo": 2,
+      "idioma": "es",
+      "contenido": "“¡Queridos hijos! Con amor materno les ruego: entréguenme sus manos juntas, entréguenme sus corazones purificados en la confesión, y yo los guiaré hacia mi Hijo. Porque, hijos míos, sólo mi Hijo, con Su luz, puede iluminar las tinieblas, sólo Él, con Su Palabra, puede eliminar el sufrimiento. Por eso, no tengan miedo de caminar conmigo, porque yo los conduzco hacia mi Hijo, hacia la salvación. Les doy las gracias. ”",
+      "reflexion": null
+    },
+    {
+      "id": 18,
+      "fecha": "2025-03-25",
+      "orden": 1,
+      "vidente": "Marija Pavlovic",
+      "tipo": 1,
+      "idioma": "es",
+      "contenido": "“¡Queridos hijos! En este tiempo de gracia en el que están llamados a la conversión, los animo, hijitos, a ofrecerme sus oraciones, sufrimientos y lágrimas por la conversión de los corazones que están lejos del Corazón de mi Hijo Jesús. Oren conmigo, hijitos, porque sin Dios no tienen futuro ni vida eterna. Los amo, pero sin ustedes no los puedo ayudar. Por eso, díganle sí a Dios. Gracias por haber respondido a mi llamado. Gracias por haber respondido a mi llamado. ”",
+      "reflexion": null
+    },
+    {
+      "id": 19,
+      "fecha": "2025-04-25",
+      "orden": 1,
+      "vidente": "Marija Pavlovic",
+      "tipo": 1,
+      "idioma": "es",
+      "contenido": "“¡Queridos hijos! Los vientos del desasosiego, del egoísmo y del pecado están apoderándose de muchos corazones y los conducen a la desolación y a la perdición. Por eso, hijitos, los invito: regresen a Dios y a la oración, para que se sientan bien en sus corazones y en la tierra en la que viven. Los amo, hijitos, y por eso no me canso de llamarlos a la conversión. Gracias por haber respondido a mi llamado. ”",
+      "reflexion": null
+    },
+    {
+      "id": 20,
+      "fecha": "2025-05-25",
+      "orden": 1,
+      "vidente": "Marija Pavlovic",
+      "tipo": 1,
+      "idioma": "es",
+      "contenido": "“¡Queridos hijos! En este tiempo de gracia, los invito a ser hombres de esperanza, paz y alegría, para que cada persona sea instrumento de paz y amante de la vida. Hijitos, oren al Espíritu Santo para que con el poder de su Santo Espíritu los llene de valentía y entrega. Y este tiempo será para ustedes un don y un camino en la santidad hacia la vida eterna. Estoy con ustedes y los amo. Gracias por haber respondido a mi llamado. ”",
+      "reflexion": null
+    },
+    {
+      "id": 21,
+      "fecha": "2025-06-25",
+      "orden": 1,
+      "vidente": "Marija Pavlovic",
+      "tipo": 1,
+      "idioma": "es",
+      "contenido": "“¡Queridos hijos! También hoy doy gracias al Todopoderoso por estar con ustedes y poder guiarlos hacia el Dios del amor y de la paz. Las ideologías que los destruyen a ustedes y su vida espiritual son pasajeras. Yo los llamo: hijitos, regresen a Dios, porque con Dios tienen futuro y vida eterna. Gracias por haber respondido a mi llamado. ”",
+      "reflexion": null
+    },
+    {
+      "id": 22,
+      "fecha": "2025-07-25",
+      "orden": 1,
+      "vidente": "Marija Pavlovic",
+      "tipo": 1,
+      "idioma": "es",
+      "contenido": "“¡Queridos hijos! En este tiempo de gracia, en que el Altísimo me permite amarlos y guiarlos por el camino de la santidad, Satanás quiere enmarañarlos con la cuerda del desasosiego y del odio. No permitan que prevalezca, sino luchen, hijitos, por la santidad de cada vida humana. Gracias por haber respondido a mi llamado. ”",
+      "reflexion": null
+    },
+    {
+      "id": 23,
+      "fecha": "2025-08-25",
+      "orden": 1,
+      "vidente": "Marija Pavlovic",
+      "tipo": 1,
+      "idioma": "es",
+      "contenido": "“¡Queridos hijos, hijitos míos, amados míos! Ustedes son elegidos porque han respondido, han puesto en práctica mis indicaciones y aman a Dios sobre todas las cosas. Por eso, hijitos, oren con todo el corazón para que se realicen mis palabras. Ayunen, hagan sacrificios, amen por amor a Dios que los ha creado y sean, hijitos, mis manos extendidas a este mundo que no ha conocido al Dios del amor. Gracias por haber respondido a mi llamado. ”",
+      "reflexion": null
+    },
+    {
+      "id": 24,
+      "fecha": "2025-09-25",
+      "orden": 1,
+      "vidente": "Marija Pavlovic",
+      "tipo": 1,
+      "idioma": "es",
+      "contenido": "“¡Queridos hijos! Que este tiempo sea un tiempo de oración por la paz. Gracias por haber respondido a mi llamado. ”",
+      "reflexion": null
+    },
+    {
+      "id": 25,
+      "fecha": "2025-10-25",
+      "orden": 1,
+      "vidente": "Marija Pavlovic",
+      "tipo": 1,
+      "idioma": "es",
+      "contenido": "“¡Queridos hijos! El Altísimo, en su bondad, me ha confiado a ustedes para guiarlos por el camino de la paz. Muchos han respondido y oran, pero hay muchas criaturas que no tienen paz y no han conocido al Dios del amor. Por eso, hijitos, oren y amen; formen grupos de oración para animarse mutuamente al bien. Yo estoy con ustedes y oro por su conversión. Gracias por haber respondido a mi llamado. ”",
+      "reflexion": null
+    },
+    {
+      "id": 26,
+      "fecha": "2025-11-25",
+      "orden": 1,
+      "vidente": "Marija Pavlovic",
+      "tipo": 1,
+      "idioma": "es",
+      "contenido": "“¡Queridos hijos! En este tiempo de gracia los invito a seguirme. Oren por aquellos que no oran, ni desean la paz y la alegría que sólo el Altísimo puede dar. Que sus almas estén unidas en la alegría de la espera, y su corazón será colmado de paz. Estarán convencidos, hijitos, de que todo irá bien y que Dios lo bendecirá todo, porque el bien que hacen volverá a ustedes, y su corazón se llenará de alegría porque están con Dios y en Dios. Gracias por haber respondido a mi llamado. ”",
+      "reflexion": null
+    },
+    {
+      "id": 27,
+      "fecha": "2025-12-25",
+      "orden": 1,
+      "vidente": "Jakov Colo",
+      "tipo": 2,
+      "idioma": "es",
+      "contenido": "“Queridos hijos, hoy, en este día de gracia, de un modo especial los invito a una entrega total a Jesús. Hijitos, entréguenle todas sus heridas y dolores, su pasado y su futuro, y permitan que Jesús reine en sus vidas. Hijos míos, sólo con una entrega total, Jesús se entrega a la vida de ustedes, y ese es el mayor don que pueden recibir. Oren para comprender cuán preciosos son ustedes para Jesús y cuánto Él los ama. Gracias por haber respondido a mi llamado\".”",
+      "reflexion": null
+    },
+    {
+      "id": 28,
+      "fecha": "2025-12-25",
+      "orden": 1,
+      "vidente": "Marija Pavlovic",
+      "tipo": 1,
+      "idioma": "es",
+      "contenido": "“¡Queridos hijos! También hoy ⎯ cuando Dios me permite llevar en mis brazos al Niño Jesús, Rey de la Paz, para que Él los llene del ardor del amor y de la paz, a fin de que cada corazón sea semejante a Su Corazón en este tiempo de gracia ⎯ sean valientes y decididos defensores del amor de su Dios, para que Él les conceda Su paz en este tiempo de gracia. Gracias por haber respondido a mi llamado. ”",
+      "reflexion": null
+    },
+    {
+      "id": 29,
+      "fecha": "2026-01-25",
+      "orden": 1,
+      "vidente": "Marija Pavlovic",
+      "tipo": 1,
+      "idioma": "es",
+      "contenido": "“¡Queridos hijos! Hoy los invito a ser oración y bendición para todos aquellos que no han conocido el amor de Dios. Hijitos, sean diferentes a los demás y sean personas positivas de oración y de amor a Dios, para que con sus vidas sean signo del amor de Dios para los demás. Los bendigo con mi bendición maternal e intercedo por cada uno de ustedes ante mi Hijo Jesús. Gracias por haber respondido a mi llamado. ”",
+      "reflexion": null
+    }
+  ]
 }
