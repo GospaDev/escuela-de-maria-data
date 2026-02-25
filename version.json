@@ -1,7 +1,7 @@
 {
     "version": "1.0.1",
     "fechaActualizacion": "2026-02-25",
-    "totalMensajes": 29,
+    "totalMensajes": 30,
     "urlMensajes": "https://raw.githubusercontent.com/GospaDev/escuela-de-maria-data/main/mensajes.json",
     "urlUltimo": "https://raw.githubusercontent.com/GospaDev/escuela-de-maria-data/main/ultimo.json"
 }
