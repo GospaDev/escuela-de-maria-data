@@ -1,0 +1,211 @@
+{
+  "version": "1.0.0",
+  "fechaActualizacion": "2025-01-25",
+  "misterios": [
+
+    {
+      "id": "gozoso-1",
+      "tipoMisterio": "gozosos",
+      "orden": 1,
+      "nombre": "La Anunciación",
+      "meditacion": "Meditamos cómo el Ángel Gabriel anunció a María que sería la Madre del Hijo de Dios, y ella respondió con total docilidad: «Hágase en mí según tu palabra».",
+      "citaBiblica": "«No temas, María, porque Dios te ha favorecido. Concebirás y darás a luz un hijo, y le pondrás por nombre Jesús; él será grande y será llamado Hijo del Altísimo.»",
+      "referencia": "Lc 1, 30-33",
+      "idMensajeVirgen": null
+    },
+    {
+      "id": "gozoso-2",
+      "tipoMisterio": "gozosos",
+      "orden": 2,
+      "nombre": "La Visitación",
+      "meditacion": "Meditamos cómo María, después de la Anunciación, fue a visitar a su prima Isabel, llevando a Jesús en su seno. Al escuchar el saludo de María, Juan el Bautista saltó de alegría en el vientre de su madre.",
+      "citaBiblica": "«En aquellos días, María partió y fue sin demora a un pueblo de la montaña de Judá. Entró en la casa de Zacarías y saludó a Isabel. Apenas esta oyó el saludo de María, el niño saltó de alegría en su seno.»",
+      "referencia": "Lc 1, 39-42",
+      "idMensajeVirgen": null
+    },
+    {
+      "id": "gozoso-3",
+      "tipoMisterio": "gozosos",
+      "orden": 3,
+      "nombre": "El Nacimiento del Hijo de Dios",
+      "meditacion": "Meditamos cómo el Hijo de Dios, siendo infinitamente rico, quiso nacer en la pobreza de un pesebre en Belén, para hacerse cercano a todos los hombres.",
+      "citaBiblica": "«Mientras se encontraban en Belén, le llegó el tiempo de ser madre; y María dio a luz a su Hijo primogénito, lo envolvió en pañales y lo acostó en un pesebre, porque no había lugar para ellos en el albergue.»",
+      "referencia": "Lc 2, 6-7",
+      "idMensajeVirgen": null
+    },
+    {
+      "id": "gozoso-4",
+      "tipoMisterio": "gozosos",
+      "orden": 4,
+      "nombre": "La Presentación en el Templo",
+      "meditacion": "Meditamos cómo María y José presentaron al Niño Jesús en el Templo de Jerusalén, cumpliendo la Ley de Moisés. El anciano Simeón reconoció en Él al Salvador esperado por Israel.",
+      "citaBiblica": "«Cuando llegó el día fijado por la Ley para la purificación, llevaron al niño a Jerusalén para presentarlo al Señor, como está escrito en la Ley: Todo varón primogénito será consagrado al Señor.»",
+      "referencia": "Lc 2, 22-24",
+      "idMensajeVirgen": null
+    },
+    {
+      "id": "gozoso-5",
+      "tipoMisterio": "gozosos",
+      "orden": 5,
+      "nombre": "El Niño Jesús perdido y hallado en el Templo",
+      "meditacion": "Meditamos cómo María y José buscaron angustiados a Jesús durante tres días, y lo encontraron en el Templo dialogando con los doctores. Jesús les reveló que debía ocuparse de las cosas de su Padre.",
+      "citaBiblica": "«Al tercer día, lo hallaron en el Templo en medio de los doctores de la Ley. Todos los que los oían estaban asombrados de su inteligencia y sus respuestas.»",
+      "referencia": "Lc 2, 46-47",
+      "idMensajeVirgen": null
+    },
+
+    {
+      "id": "luminoso-1",
+      "tipoMisterio": "luminosos",
+      "orden": 1,
+      "nombre": "El Bautismo de Jesús en el Jordán",
+      "meditacion": "Meditamos cómo Jesús, siendo el Hijo de Dios, se hizo bautizar por Juan en el Jordán para cumplir toda justicia. El Padre proclamó desde el cielo: «Este es mi Hijo amado».",
+      "citaBiblica": "«Apenas fue bautizado, Jesús salió del agua. En ese momento se abrieron los cielos y vio al Espíritu de Dios descender como una paloma y venir sobre él. Y una voz del cielo dijo: Este es mi Hijo amado, en quien me complazco.»",
+      "referencia": "Mt 3, 16-17",
+      "idMensajeVirgen": null
+    },
+    {
+      "id": "luminoso-2",
+      "tipoMisterio": "luminosos",
+      "orden": 2,
+      "nombre": "Las Bodas de Caná",
+      "meditacion": "Meditamos cómo Jesús, a intercesión de su Madre, realizó su primer milagro convirtiendo el agua en vino, manifestando su gloria y confirmando la mediación de María.",
+      "citaBiblica": "«Su madre dijo a los sirvientes: Hagan lo que él les diga. Jesús les dijo: Llenen de agua las tinajas. Y las llenaron hasta el borde. Entonces les dijo: Saquen ahora y lleven al encargado del banquete.»",
+      "referencia": "Jn 2, 5-8",
+      "idMensajeVirgen": null
+    },
+    {
+      "id": "luminoso-3",
+      "tipoMisterio": "luminosos",
+      "orden": 3,
+      "nombre": "El Anuncio del Reino de Dios",
+      "meditacion": "Meditamos cómo Jesús proclamó el Reino de Dios y llamó a la conversión, invitando a todos a creer en el Evangelio y a transformar sus vidas.",
+      "citaBiblica": "«El tiempo se ha cumplido y el Reino de Dios está cerca. Conviértanse y crean en el Evangelio.»",
+      "referencia": "Mc 1, 15",
+      "idMensajeVirgen": null
+    },
+    {
+      "id": "luminoso-4",
+      "tipoMisterio": "luminosos",
+      "orden": 4,
+      "nombre": "La Transfiguración",
+      "meditacion": "Meditamos cómo Jesús se transfiguró ante Pedro, Santiago y Juan en el monte Tabor, revelando su gloria divina para fortalecer la fe de los apóstoles ante la Pasión.",
+      "citaBiblica": "«Se transfiguró delante de ellos: su rostro brilló como el sol y sus vestiduras se volvieron blancas como la luz. Y una voz desde la nube decía: Este es mi Hijo amado, en quien me complazco. Escúchenlo.»",
+      "referencia": "Mt 17, 2-5",
+      "idMensajeVirgen": null
+    },
+    {
+      "id": "luminoso-5",
+      "tipoMisterio": "luminosos",
+      "orden": 5,
+      "nombre": "La Institución de la Eucaristía",
+      "meditacion": "Meditamos cómo Jesús, en la Última Cena, instituyó la Eucaristía, entregándose a sí mismo como alimento de vida eterna bajo las especies del pan y del vino.",
+      "citaBiblica": "«Mientras comían, Jesús tomó pan, pronunció la bendición, lo partió y lo dio a sus discípulos, diciendo: Tomen y coman, esto es mi cuerpo. Luego tomó una copa, dio gracias y se la dio diciendo: Beban todos de ella, porque esto es mi sangre.»",
+      "referencia": "Mt 26, 26-28",
+      "idMensajeVirgen": null
+    },
+
+    {
+      "id": "doloroso-1",
+      "tipoMisterio": "dolorosos",
+      "orden": 1,
+      "nombre": "La Oración en el Huerto",
+      "meditacion": "Meditamos cómo Jesús, en el Huerto de Getsemaní, experimentó la angustia y el temor ante la Pasión, y con plena confianza en el Padre oró: «No se haga mi voluntad, sino la tuya».",
+      "citaBiblica": "«Padre mío, si es posible, que pase de mí esta copa; pero no sea como yo quiero, sino como quieres tú. Y postrado en tierra, oraba con más insistencia, y su sudor se volvió como gotas de sangre que caían en tierra.»",
+      "referencia": "Mt 26, 39 / Lc 22, 44",
+      "idMensajeVirgen": null
+    },
+    {
+      "id": "doloroso-2",
+      "tipoMisterio": "dolorosos",
+      "orden": 2,
+      "nombre": "La Flagelación",
+      "meditacion": "Meditamos cómo Jesús fue atado a una columna y azotado cruelmente por los soldados de Pilato, ofreciendo su cuerpo por nuestra salvación.",
+      "citaBiblica": "«Entonces Pilato tomó a Jesús y mandó azotarlo.»",
+      "referencia": "Jn 19, 1",
+      "idMensajeVirgen": null
+    },
+    {
+      "id": "doloroso-3",
+      "tipoMisterio": "dolorosos",
+      "orden": 3,
+      "nombre": "La Coronación de Espinas",
+      "meditacion": "Meditamos cómo los soldados tejieron una corona de espinas y la pusieron sobre la cabeza de Jesús, burlándose de Él como rey, mientras Él ofrecía en silencio ese sufrimiento por nosotros.",
+      "citaBiblica": "«Los soldados trenzaron una corona de espinas, se la pusieron en la cabeza y le pusieron un manto de púrpura. Y se acercaban a él y le decían: ¡Salve, Rey de los judíos! Y le daban bofetadas.»",
+      "referencia": "Jn 19, 2-3",
+      "idMensajeVirgen": null
+    },
+    {
+      "id": "doloroso-4",
+      "tipoMisterio": "dolorosos",
+      "orden": 4,
+      "nombre": "Jesús carga la Cruz",
+      "meditacion": "Meditamos cómo Jesús cargó la cruz hacia el Calvario, cayendo varias veces bajo su peso, aceptando ese camino de dolor para redimir a la humanidad.",
+      "citaBiblica": "«Cargando él mismo con la cruz, salió hacia el lugar llamado Calvario, que en hebreo se dice Gólgota.»",
+      "referencia": "Jn 19, 17",
+      "idMensajeVirgen": null
+    },
+    {
+      "id": "doloroso-5",
+      "tipoMisterio": "dolorosos",
+      "orden": 5,
+      "nombre": "La Crucifixión y Muerte de Jesús",
+      "meditacion": "Meditamos cómo Jesús fue crucificado en el Calvario entre dos ladrones, y murió perdonando a sus verdugos. María, su Madre, estuvo al pie de la cruz acompañándolo hasta el final.",
+      "citaBiblica": "«Junto a la cruz de Jesús estaban su madre, la hermana de su madre, María la de Cleofás, y María Magdalena. Jesús, viendo a su madre y junto a ella al discípulo a quien amaba, dijo a su madre: Mujer, ahí tienes a tu hijo.»",
+      "referencia": "Jn 19, 25-26",
+      "idMensajeVirgen": null
+    },
+
+    {
+      "id": "glorioso-1",
+      "tipoMisterio": "gloriosos",
+      "orden": 1,
+      "nombre": "La Resurrección",
+      "meditacion": "Meditamos cómo Jesús resucitó glorioso al tercer día, venciendo a la muerte y abriendo para todos el camino de la vida eterna.",
+      "citaBiblica": "«¿Por qué buscan entre los muertos al que está vivo? No está aquí; ha resucitado.»",
+      "referencia": "Lc 24, 5-6",
+      "idMensajeVirgen": null
+    },
+    {
+      "id": "glorioso-2",
+      "tipoMisterio": "gloriosos",
+      "orden": 2,
+      "nombre": "La Ascensión",
+      "meditacion": "Meditamos cómo Jesús, cuarenta días después de su Resurrección, ascendió glorioso a los cielos ante sus discípulos, prometiéndoles el Espíritu Santo.",
+      "citaBiblica": "«Dicho esto, fue elevado en presencia de ellos, y una nube lo ocultó a sus ojos. Y mientras miraban fijamente al cielo viéndolo alejarse, se les aparecieron dos hombres vestidos de blanco que les dijeron: ¿Por qué están mirando al cielo?»",
+      "referencia": "Hch 1, 9-11",
+      "idMensajeVirgen": null
+    },
+    {
+      "id": "glorioso-3",
+      "tipoMisterio": "gloriosos",
+      "orden": 3,
+      "nombre": "La Venida del Espíritu Santo",
+      "meditacion": "Meditamos cómo el Espíritu Santo descendió sobre María y los Apóstoles reunidos en el Cenáculo el día de Pentecostés, llenándolos de fortaleza para anunciar el Evangelio.",
+      "citaBiblica": "«De repente vino del cielo un ruido como de viento recio y llenó toda la casa donde se encontraban. Se les aparecieron unas lenguas como de fuego que se repartieron y posaron sobre cada uno de ellos; quedaron todos llenos del Espíritu Santo.»",
+      "referencia": "Hch 2, 2-4",
+      "idMensajeVirgen": null
+    },
+    {
+      "id": "glorioso-4",
+      "tipoMisterio": "gloriosos",
+      "orden": 4,
+      "nombre": "La Asunción de María",
+      "meditacion": "Meditamos cómo la Virgen María, al término de su vida terrena, fue llevada en cuerpo y alma a la gloria del cielo, como primicia de la resurrección prometida a todos.",
+      "citaBiblica": "«Se abrió en el cielo el templo de Dios y apareció en el templo el arca de su alianza. Una señal grandiosa apareció en el cielo: una mujer vestida de sol, con la luna bajo sus pies y una corona de doce estrellas en la cabeza.»",
+      "referencia": "Ap 11, 19 / 12, 1",
+      "idMensajeVirgen": null
+    },
+    {
+      "id": "glorioso-5",
+      "tipoMisterio": "gloriosos",
+      "orden": 5,
+      "nombre": "La Coronación de María",
+      "meditacion": "Meditamos cómo la Santísima Virgen María fue coronada Reina del cielo y de la tierra por la Santísima Trinidad, intercediendo sin cesar por todos sus hijos.",
+      "citaBiblica": "«En tu poder se rindieron tus enemigos, ante la majestad de tu nombre se postraron quienes te odian. Dios te bendijo para siempre.»",
+      "referencia": "Sal 45, 12-13",
+      "idMensajeVirgen": null
+    }
+
+  ]
+}
