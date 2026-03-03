@@ -1,0 +1,19 @@
+{
+    "version": "2026.03.03",
+    "oraciones": [
+        {
+            "id": 1,
+            "fecha": "2026-03-03",
+            "titulo": "Oración por la paz interior",
+            "contenido": "Señor Jesús, en este día te pido que llenes mi corazón de tu paz. Que en medio de las dificultades pueda encontrar serenidad en Ti. Amén.",
+            "citaBiblica": "Juan 14:27 — La paz os dejo, mi paz os doy."
+        },
+        {
+            "id": 2,
+            "fecha": "2026-03-04",
+            "titulo": "Oración por la familia",
+            "contenido": "Madre María, cubre con tu manto a mi familia. Protege a cada uno de sus miembros y ayúdanos a vivir en amor y unidad. Amén.",
+            "citaBiblica": "Salmo 128:3 — Tu esposa será como vid fructífera."
+        }
+    ]
+}
