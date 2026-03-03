@@ -3,56 +3,51 @@
   "fechaActualizacion": "2025-01-25",
   "misterios": [
 
-    {
-      "id": "gozoso-1",
-      "tipoMisterio": "gozosos",
-      "orden": 1,
-      "nombre": "La Anunciación",
-      "meditacion": "Meditamos cómo el Ángel Gabriel anunció a María que sería la Madre del Hijo de Dios, y ella respondió con total docilidad: «Hágase en mí según tu palabra».",
-      "citaBiblica": "«No temas, María, porque Dios te ha favorecido. Concebirás y darás a luz un hijo, y le pondrás por nombre Jesús; él será grande y será llamado Hijo del Altísimo.»",
-      "referencia": "Lc 1, 30-33",
-      "idMensajeVirgen": null
-    },
-    {
-      "id": "gozoso-2",
-      "tipoMisterio": "gozosos",
-      "orden": 2,
-      "nombre": "La Visitación",
-      "meditacion": "Meditamos cómo María, después de la Anunciación, fue a visitar a su prima Isabel, llevando a Jesús en su seno. Al escuchar el saludo de María, Juan el Bautista saltó de alegría en el vientre de su madre.",
-      "citaBiblica": "«En aquellos días, María partió y fue sin demora a un pueblo de la montaña de Judá. Entró en la casa de Zacarías y saludó a Isabel. Apenas esta oyó el saludo de María, el niño saltó de alegría en su seno.»",
-      "referencia": "Lc 1, 39-42",
-      "idMensajeVirgen": null
-    },
-    {
-      "id": "gozoso-3",
-      "tipoMisterio": "gozosos",
-      "orden": 3,
-      "nombre": "El Nacimiento del Hijo de Dios",
-      "meditacion": "Meditamos cómo el Hijo de Dios, siendo infinitamente rico, quiso nacer en la pobreza de un pesebre en Belén, para hacerse cercano a todos los hombres.",
-      "citaBiblica": "«Mientras se encontraban en Belén, le llegó el tiempo de ser madre; y María dio a luz a su Hijo primogénito, lo envolvió en pañales y lo acostó en un pesebre, porque no había lugar para ellos en el albergue.»",
-      "referencia": "Lc 2, 6-7",
-      "idMensajeVirgen": null
-    },
-    {
-      "id": "gozoso-4",
-      "tipoMisterio": "gozosos",
-      "orden": 4,
-      "nombre": "La Presentación en el Templo",
-      "meditacion": "Meditamos cómo María y José presentaron al Niño Jesús en el Templo de Jerusalén, cumpliendo la Ley de Moisés. El anciano Simeón reconoció en Él al Salvador esperado por Israel.",
-      "citaBiblica": "«Cuando llegó el día fijado por la Ley para la purificación, llevaron al niño a Jerusalén para presentarlo al Señor, como está escrito en la Ley: Todo varón primogénito será consagrado al Señor.»",
-      "referencia": "Lc 2, 22-24",
-      "idMensajeVirgen": null
-    },
-    {
-      "id": "gozoso-5",
-      "tipoMisterio": "gozosos",
-      "orden": 5,
-      "nombre": "El Niño Jesús perdido y hallado en el Templo",
-      "meditacion": "Meditamos cómo María y José buscaron angustiados a Jesús durante tres días, y lo encontraron en el Templo dialogando con los doctores. Jesús les reveló que debía ocuparse de las cosas de su Padre.",
-      "citaBiblica": "«Al tercer día, lo hallaron en el Templo en medio de los doctores de la Ley. Todos los que los oían estaban asombrados de su inteligencia y sus respuestas.»",
-      "referencia": "Lc 2, 46-47",
-      "idMensajeVirgen": null
-    },
+   {
+    "tipo": "gozosos",
+    "orden": 1,
+    "nombre": "La Anunciación del Ángel a la Virgen María",
+    "citaBiblica": "Al sexto mes el ángel Gabriel fue enviado por Dios a una ciudad de Galilea, llamada Nazaret, a una virgen desposada con un hombre llamado José, de la estirpe de David; el nombre de la virgen era María.",
+    "referencia": "Lc 1, 26-27",
+    "meditacion": "El primer ciclo, el de los «misterios gozosos», se caracteriza efectivamente por el gozo que produce el acontecimiento de la Encarnación.\n\nEsto es evidente desde la Anunciación, cuando el saludo de Gabriel a la Virgen de Nazaret, se une a la invitación a la alegría mesiánica: «Alégrate, María». A este anuncio apunta toda la historia de la salvación, es más, en cierto modo, la historia misma del mundo.\n\nEn efecto, si el designio del Padre es de recapitular en Cristo todas las cosas, el don divino con el que el Padre se acerca a María para hacerla Madre de su Hijo alcanza a todo el universo.\n\nA su vez, toda la humanidad está como implicada en el \"fiat\" con el que Ella responde prontamente a la voluntad de Dios.\n\n— San Juan Pablo II, Rosarium Mariae Virginis, 2",
+    "idMensajeVirgen": null
+  },
+  {
+    "tipo": "gozosos",
+    "orden": 2,
+    "nombre": "La Visitación de María a su prima Santa Isabel",
+    "citaBiblica": "En aquellos días María se puso en camino y fue aprisa a la región montañosa, a una ciudad de Judá; entró en casa de Zacarías y saludó a Isabel. Y sucedió que, en cuanto Isabel oyó el saludo de María, saltó de gozo el niño en su seno, e Isabel quedó llena de Espíritu Santo; y exclamando a voz en grito, dijo: «Bendita tú entre las mujeres y bendito el fruto de tu seno».",
+    "referencia": "Lc 1, 39-42",
+    "meditacion": "El regocijo se percibe en la escena del encuentro con Isabel, dónde la voz misma de María y la presencia de Cristo en su seno hacen saltar de alegría a Juan. Haciendo nuestras en el Avemaría las palabras del Ángel y de Santa Isabel, nos sentimos impulsados a buscar siempre de nuevo en María, entre sus brazos y en su corazón, el fruto bendito de su vientre.\n\n— San Juan Pablo II, Rosarium Mariae Virginis, 20 y 24",
+    "idMensajeVirgen": null
+  },
+  {
+    "tipo": "gozosos",
+    "orden": 3,
+    "nombre": "El Nacimiento del Hijo de Dios en Belén",
+    "citaBiblica": "Sucedió que por aquellos días salió un edicto de César Augusto ordenando que se empadronase todo el mundo. Este primer empadronamiento tuvo lugar siendo Cirino gobernador de Siria. Iban todos a empadronarse, cada uno a su ciudad.\n\nSubió también José desde Galilea, de la ciudad de Nazaret, a Judea, a la ciudad de David, que se llama Belén, por ser él de la casa y familia de David, para empadronarse con María, su esposa, que estaba encinta. Y sucedió que, mientras ellos estaban allí, se le cumplieron los días del alumbramiento, y dio a luz a su hijo primogénito, le envolvió en pañales y le acostó en un pesebre, porque no tenían sitio en el alojamiento.",
+    "referencia": "Lc 2, 1-7",
+    "meditacion": "María, Madre por excelencia, nos ayuda a comprender las palabras claves del misterio del nacimiento de su Hijo divino: humildad, silencio, estupor, alegría.\n\nNos exhorta ante todo a la humildad para que Dios pueda encontrar espacio en nuestro corazón. Éste no puede quedar obscurecido por el orgullo y la soberbia.\n\nNos indica el valor del silencio, que sabe escuchar el canto de los Ángeles y el llanto del Niño, y que no los sofoca en el estruendo y en el caos. Junto a ella, contemplaremos el pesebre con íntimo estupor, disfrutando de la sencilla y pura alegría que ese Niño trae a la humanidad.\n\n— San Juan Pablo II, Ángelus, 21 de diciembre de 2003",
+    "idMensajeVirgen": null
+  },
+  {
+    "tipo": "gozosos",
+    "orden": 4,
+    "nombre": "La Presentación de Jesús en el Templo",
+    "citaBiblica": "Cuando se cumplieron los ocho días para circuncidarle, se le dio el nombre de Jesús, como lo había llamado el ángel antes de ser concebido en el seno. Cuando se cumplieron los días de la purificación de ellos, según la Ley de Moisés, llevaron a Jesús a Jerusalén para presentarle al Señor, como está escrito en la Ley del Señor: Todo varón primogénito será consagrado al Señor y para ofrecer en sacrificio un par de tórtolas o dos pichones, conforme a lo que se dice en la Ley del Señor.",
+    "referencia": "Lc 2, 21-24",
+    "meditacion": "Ya los dos últimos misterios, aun conservando el sabor de la alegría, anticipan indicios del drama.\n\nEn efecto, la presentación en el templo, a la vez que expresa la dicha de la consagración y extasía al viejo Simeón, contiene también la profecía de que el Niño será «señal de contradicción» para Israel y de que una espada traspasará el alma de la Madre.\n\n— San Juan Pablo II, Rosarium Virginis Mariae, 2",
+    "idMensajeVirgen": null
+  },
+  {
+    "tipo": "gozosos",
+    "orden": 5,
+    "nombre": "El Niño Jesús perdido y hallado en el Templo",
+    "citaBiblica": "Sus padres iban todos los años a Jerusalén a la fiesta de la Pascua. Cuando tenía doce años, subieron ellos como de costumbre a la fiesta y, al volverse, pasados los días, el niño Jesús se quedó en Jerusalén, sin saberlo sus padres…\n\nY sucedió que al cabo de tres días, le encontraron en el Templo sentado en medio de los maestros, escuchándolos y preguntándoles; todos los que le oían, estaban estupefactos por su inteligencia y sus respuestas.",
+    "referencia": "Lc 2, 41-47",
+    "meditacion": "Gozoso y dramático al mismo tiempo es también el episodio de Jesús de 12 años en el templo. Aparece con su sabiduría divina mientras escucha y pregunta, y ejerciendo sustancialmente el papel de quien enseña.\n\nLa revelación de su misterio de Hijo, dedicado enteramente a las cosas del Padre, anuncia aquella radicalidad evangélica que, ante las exigencias absolutas del Reino, cuestiona hasta los más profundos lazos de afecto humano.\n\nJosé y María mismos, sobresaltados y angustiados, no comprendieron sus palabras.\n\n— San Juan Pablo II, Rosarium Virginis Mariae, 20",
+    "idMensajeVirgen": null
+  },
 
     {
       "id": "luminoso-1",
@@ -120,9 +115,9 @@
       "tipoMisterio": "dolorosos",
       "orden": 2,
       "nombre": "La Flagelación",
-      "meditacion": "Meditamos cómo Jesús fue atado a una columna y azotado cruelmente por los soldados de Pilato, ofreciendo su cuerpo por nuestra salvación.",
-      "citaBiblica": "«Entonces Pilato tomó a Jesús y mandó azotarlo.»",
-      "referencia": "Jn 19, 1",
+      "meditacion": "",
+      "CitaBiblica": "Todos lo declararon reo de muerte. Algunos se pusieron a escupirle, y tapándole la cara, lo abofeteaban y le decían: Haz de profeta. Y los criados le daban bofetadas.\nPilatos tomó a Jesús y mandó que lo azotaran.",
+      "referencia": "Mc 14, 65; Jn 19,1",
       "idMensajeVirgen": null
     },
     {
